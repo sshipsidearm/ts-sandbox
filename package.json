@@ -1,0 +1,22 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "A test environment for typescript and github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ts-node": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshipsey/ts-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshipsey/ts-sandbox/issues"
+  },
+  "homepage": "https://github.com/sshipsey/ts-sandbox#readme"
+}
